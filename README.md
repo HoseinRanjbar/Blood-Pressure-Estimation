@@ -47,7 +47,7 @@ In phase2, we are going to get a little closer to the real issue. For this purpo
 1- Loading datasets: load **s2_train.npy** and **s2_test.npy**. In below a PPG signal is shown:
 
 <p align="center">
-  <img src="./Images/ppg_phase2.png" width="1000" >
+  <img src="./Images/ppg_phase2.png" width="1200" >
 </p>
 
 
