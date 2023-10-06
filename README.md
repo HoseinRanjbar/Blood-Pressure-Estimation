@@ -7,4 +7,4 @@ In today's healthcare landscape, the continuous and non-invasive monitoring of b
 By delving into the intricacies of PPG signals, signal processing techniques, and machine learning algorithms, we aim to bridge the gap between these signals and accurate blood pressure measurements, ultimately contributing to a future where unobtrusive and continuous blood pressure monitoring enhances patient comfort and healthcare outcomes.
 There is relationship between PPG signals and blood pressure, in below this relationship is showed:
 
-![]()
+![ppg-bp](./Images/ppg-bp.png)
