@@ -57,6 +57,8 @@ In phase2, we are going to get a little closer to the real issue. For this purpo
 
 3- Base line model: Calculate Systolic & Diastolic average for base line model.
 
+
+
 5- Upsampling: Set length of signals to 2000ms.
 
 6- Defining and training a linear regression model, followed by making predictions on a test dataset.
