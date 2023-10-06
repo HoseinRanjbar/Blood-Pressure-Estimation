@@ -8,7 +8,7 @@ By delving into the intricacies of PPG signals, signal processing techniques, an
 There is a relationship between PPG signals and blood pressure, and below, this relationship is demonstrated:
 
 <p align="center">
-  <img src="./Images/ppg-abp.png" width="800" >
+  <img src="./Images/ppg_abp.png" width="800" >
 </p>
 
 # Dataset: 
